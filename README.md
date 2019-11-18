@@ -7,7 +7,7 @@
 `make`
 
 #### Run app:
-`./main --arg1 --arg2=v1 --arg3=v2,v3 --version -h --list
+`./main --arg1 --arg2=v1 --arg3=v2,v3 --version -h --list`
 
 
 #### Known keys:
